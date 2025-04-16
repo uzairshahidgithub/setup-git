@@ -1,1 +1,2 @@
 hello world!
+If you see I am learning how to push repository and commit changes for deep understanding.
